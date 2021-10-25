@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BackEND",
     "\\Website",
     "\\Website\\header-footer",
     "\\Website\\Homepage",
     "\\Website\\IMG",
-    "\\Website\\Informatiepagina"
+    "\\Website\\InlogPagina",
+    "\\Website\\TarievenPagina"
   ],
-  "SelectedNode": "\\Website\\Homepage\\homepage.html",
+  "SelectedNode": "\\Website\\Homepage",
   "PreviewInSolutionExplorer": false
 }
