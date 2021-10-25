@@ -84,8 +84,5 @@
             db!2m2!1d2.1685425!2d41.3865368" target=_blank><input type="image" src="../IMG/route.png" id="route" name="route" alt="route"></a>
         </div>
     </div>
-
-
-    </div>
 </body>
 </html>
