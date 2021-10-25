@@ -3,7 +3,10 @@
     "",
     "\\Website",
     "\\Website\\header-footer",
-    "\\Website\\Homepage"
+    "\\Website\\Homepage",
+    "\\Website\\IMG",
+    "\\Website\\Informatiepagina"
   ],
+  "SelectedNode": "\\Website\\Homepage\\homepage.html",
   "PreviewInSolutionExplorer": false
 }
